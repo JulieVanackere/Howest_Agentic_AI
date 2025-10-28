@@ -422,7 +422,7 @@ config/
 config/*.py
 *.config
 credentials.json
-token.json
+token.pickle
 
 # Environment variables
 .env
