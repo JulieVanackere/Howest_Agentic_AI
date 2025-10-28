@@ -430,3 +430,6 @@ token.pickle
 .env.production
 .env.staging
 .env.development
+
+# Lecture files to ignore temporarily
+lecture_2.ipynb
