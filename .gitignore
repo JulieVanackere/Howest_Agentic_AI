@@ -416,3 +416,17 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Configuration files (may contain sensitive information)
+config/
+config/*.py
+*.config
+credentials.json
+token.json
+
+# Environment variables
+.env
+.env.local
+.env.production
+.env.staging
+.env.development
